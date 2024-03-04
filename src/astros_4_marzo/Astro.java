@@ -13,7 +13,7 @@ public class Astro {
 		
 		
 	}
-
+	//Constructor
 	public Astro(String nombre, double masa, double tempMedia) {
 		this.nombre = nombre;
 		this.masa = masa;

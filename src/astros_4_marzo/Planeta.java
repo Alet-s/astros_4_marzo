@@ -5,6 +5,7 @@ public class Planeta extends Astro {
 	double distSol;
 	double orbSol;
 	int numStat;
+	//Constructor
 	public Planeta(String nombre, double masa, double tempMedia, double distSol, double orbSol, int numStat) {
 		super(nombre, masa, tempMedia);
 		this.distSol = distSol;
